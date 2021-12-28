@@ -1,0 +1,5 @@
+- Chào, tớ là @MinhHuyDev
+- hiện tớ là học sinh trung học tại Trường THCS Vĩnh Thanh
+- hiện tớ đang sinh sống và làm việc tại Bạc Liêu City
+- Nếu bạn có thắc mắc gì cứ liên hệ qua: https://facebook.com/MinhHuyDev hoặc nguyenminhhuy@vangbantuoilon.tk
+- Xin Cảm Ơn 💞
