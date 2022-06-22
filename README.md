@@ -20,4 +20,4 @@
 
 # 📖 Top Langs
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pythondeveloper6&text_color=daf7dc&bg_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minhhuydev&text_color=daf7dc&bg_color=151515)
