@@ -22,9 +22,9 @@
 
 <p align="center"> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhhuydev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"> 
- </p>
- 
+
 <img src="https://github-readme-stats.vercel.app/api?username=MinhHuyDev&include_all_commits=true&count_private=true&show_icons=true&custom_title=MinhHuyDev&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt = "Github Stats" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhhuydev&theme=onedark" alt = "Github Streak" >
+</p>
 
  ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) 
