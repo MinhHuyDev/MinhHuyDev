@@ -1,4 +1,4 @@
-## Welcome to [MinhHuyDev](https://www.facebook.com/Booking.MinhHuyDev) Profile 👋
+# Welcome to [MinhHuyDev](https://www.facebook.com/Booking.MinhHuyDev) Profile 👋
 
 <p align="center"> 
      <img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a> 
@@ -14,11 +14,14 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
 
 <p align="center">
-    <img align="center" alt="PNG" src="https://i.ibb.co/6Pz1rmb/Pics-Art-01-29-11-00-58.jpg" />
+    <img align="center" alt="PNG" src="https://i.ibb.co/XF37v25/Picsart-23-07-30-20-21-44-480.jpg" />
 
 
 <br/>
 <br/>
+
+# Information 
+I am **Nguyen Minh Huy**, born on **October 30, 2007**, and raised in Vietnam. Currently, I am a **Freelance Programmer** with over *4 years* of experience and proficiency in *10 different programming languages*. At the same time, I am also a high school student studying at Vo Van Kiet High School.
 
 - 📫 Liên hệ với tôi: [Facebook](https://www.facebook.com/Booking.MinhHuyDev) , [Telegram](https://t.me/minhhuydev)
 
