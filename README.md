@@ -21,7 +21,7 @@
 <br/>
 
 # Information 
-I am **Nguyen Minh Huy**, born on **October 30, 2007**, and raised in Vietnam. Currently, I am a **Freelance Programmer** with over *4 years* of experience and proficiency in *6 different programming languages*. At the same time, I am also a high school student studying at **Vo Van Kiet High School**.
+I am **Nguyen Minh Huy**, born on *October 30, 2007*, and grew up in **Vietnam**. Currently, I am a **freelance programmer** with over **4 years of experience and have explored more than 6 different programming languages**. At the same time, I am also a high school student studying at *Vo Van Kiet High School.*
 
 - 📫 Liên hệ với tôi: [Facebook](https://www.facebook.com/Booking.MinhHuyDev) , [Telegram](https://t.me/minhhuydev)
 
