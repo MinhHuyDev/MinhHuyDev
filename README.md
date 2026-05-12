@@ -1,36 +1,88 @@
-# Welcome to [MinhHuyDev](https://www.facebook.com/Booking.MinhHuyDev) Profile 👋
+# Welcome to [MinhHuyDev](https://www.facebook.com/zminhhuydev) Profile 👋
 
-<p align="center"> 
-     <img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a> 
- </p>
+
 
 <div align="center"> 
   
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=2000&pause=600&center=true&vCenter=true&width=435&height=30&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Nguy%E1%BB%85n+Minh+Huy.;Hello%2C+I+am+Nguyen+Minh+Huy.;Hola%2C+soy+Nguyen+Minh+Huy.;Ol%C3%A1%2C+eu+sou+Nguyen+Minh+Huy.;From+VietNam%2C+with+love+%3C3)](https://git.io/typing-svg)
- </div>
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=2000&pause=600&center=true&vCenter=true&width=500&height=30&lines=Hi%2C+I'm+Nguyen+Minh+Huy.;Artificial+Intelligence+student+at+Can+Tho+University.;Freelance+Developer+%7C+5%2B+years+of+experience.;From+Vietnam%2C+with+love+%3C3)](https://git.io/typing-svg)
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
+</div>
 
-<p align="center">
-    <img align="center" alt="PNG" src="https://i.ibb.co/XF37v25/Picsart-23-07-30-20-21-44-480.jpg" />
-
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 
 <br/>
-<br/>
 
-# Information 
-I am **Nguyen Minh Huy**, born on *October 30, 2007*, and grew up in **Vietnam**. Currently, I am a **freelance programmer** with over **4 years of experience and have explored more than 6 different programming languages**. At the same time, I am also a high school student studying at *Vo Van Kiet High School.*
+# 👨‍💻 About Me
 
-- 📫 Liên hệ với tôi: [Facebook](https://www.facebook.com/Booking.MinhHuyDev) , [Telegram](https://t.me/minhhuydev)
+I'm **Nguyen Minh Huy** *(alias: `raintee.dev`)*, born on **October 30, 2007** in **Phuoc Long, Bac Lieu, Vietnam**.
 
+I'm currently a **first-year student majoring in Artificial Intelligence (AI) at Can Tho University**. Alongside my studies, I work as a **freelance developer** with over **5 years of hands-on experience** and proficiency in more than **4 programming languages**.
 
-# Github Stats | Top Langs
+- 🎓 **Artificial Intelligence student** — Can Tho University *(09/2025 — present)*
+- 🏫 Secondary & High School in Phuoc Long, Bac Lieu *(2019 — 06/2025)*
+- 💼 **5+ years** of programming experience & **35+** completed projects
+- 🌍 Based in: Bac Lieu / Can Tho, Vietnam
+- 📧 Email: **minhhuydev.original@gmail.com**
+
+---
+
+# 🛠️ Skills & Technologies
+
+| Language | Level | Proficiency |
+| --- | --- | --- |
+| 🐍 **Python** | `█████████▉` 99% | Master |
+| 🐘 **PHP** | `███████▌░░` 76% | Advanced |
+| 🌐 **HTML** | `███████░░░` 70% | Advanced |
+| 📜 **JavaScript** | `████░░░░░░` 40% | Intermediate |
+| 🎨 **CSS** | `███░░░░░░░` 30% | Apprentice |
+| ⚙️ **C++** | `██▊░░░░░░░` 27% | Apprentice |
+
+**Areas of interest:** AI / LLM · RAG · Automation · Web Backend · Bots & Scraping
+
+---
+
+# 🌐 Languages
+
+- 🇻🇳 **Vietnamese** — Native · 100%
+- 🇬🇧 **English** — Continuously improving · 65%
+
+---
+
+# 🚀 Featured Projects
+
+- 🔵 **[fbchat-v2](https://nqminkhuy.com/fbchat)** — A Python library re-written from `fbchat`, enabling Facebook Messenger interactions over MQTT/GraphQL for chatbots, automation, and safe cookie scraping.
+- 🟣 **[Deeptalk with Self](https://deeptalk.nqminkhuy.com/)** — A "talk to yourself" platform powered by LLM + RAG to spark thoughts, journal emotions, and reflect daily.
+- 🟢 **[NexusVocab — Multilingual Learning System (RAG)](https://nexusvocab.com/)** — A RAG-based platform for English / multilingual learning that generates personalized exercises based on the learner's level.
+- 🟡 **[Movie Free Streaming](https://movie.nqminkhuy.com/)** — A free, responsive movie-streaming site integrating the TMDB API and M3U8 playback.
+- 🌹 **Elementary Exam Practice System** — A quiz platform with auto-grading, progress analytics, and class leaderboards.
+
+---
+
+# 📫 Contact Me
+
+<p align="left">
+  <a href="https://facebook.com/zminhhuydev"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="28" alt="Facebook"/></a>&nbsp;&nbsp;
+  <a href="https://m.me/zminhhuydev"><img src="https://cdn.simpleicons.org/messenger/00B2FF" width="28" alt="Messenger"/></a>&nbsp;&nbsp;
+  <a href="https://t.me/Minhhuydev"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="28" alt="Telegram"/></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/minhhuydev"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="28" alt="YouTube"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/minhhuydev"><img src="https://cdn.simpleicons.org/github/6E7681" width="28" alt="GitHub"/></a>
+</p>
+
+- 🌐 Website / Profile: **[nqminkhuy.com](https://nqminkhuy.com/information/)**
+- 📘 Facebook: [facebook.com/zminhhuydev](https://facebook.com/zminhhuydev)
+- 💬 Messenger: [m.me/zminhhuydev](https://m.me/zminhhuydev)
+- ✈️ Telegram: [t.me/Minhhuydev](https://t.me/Minhhuydev)
+- 📺 YouTube: [youtube.com/minhhuydev](https://www.youtube.com/minhhuydev)
+- 🐙 GitHub: [github.com/minhhuydev](https://github.com/minhhuydev)
+
+---
+
+# 📊 GitHub Stats | Top Langs
 
 <p align="center"> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhhuydev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"> 
-
-<img src="https://github-readme-stats.vercel.app/api?username=MinhHuyDev&include_all_commits=true&count_private=true&show_icons=true&custom_title=MinhHuyDev&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt = "Github Stats" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=minhhuydev&theme=onedark" alt = "Github Streak" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhhuydev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MinhHuyDev&include_all_commits=true&count_private=true&show_icons=true&custom_title=MinhHuyDev&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Github Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhhuydev&theme=onedark" alt="Github Streak"/>
 </p>
+
+<p align="center"><i>From Vietnam, with love ❤️  MinhHuyDev</i></p>
