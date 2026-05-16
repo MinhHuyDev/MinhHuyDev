@@ -14,7 +14,7 @@
 
 # 👨‍💻 About Me
 
-I'm **Nguyen Minh Huy** *(alias: `raintee.dev`)*, born on **October 30, 2007** in **Phuoc Long, Bac Lieu, Vietnam**.
+I'm **Nguyen Minh Huy** *(alias: `raintee.dev` / `m008v`)*, born on **October 30, 2007** in **Phuoc Long, Bac Lieu, Vietnam**.
 
 I'm currently a **first-year student majoring in Artificial Intelligence (AI) at Can Tho University**. Alongside my studies, I work as a **freelance developer** with over **5 years of hands-on experience** and proficiency in more than **4 programming languages**.
 
